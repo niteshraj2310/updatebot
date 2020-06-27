@@ -1,4 +1,4 @@
-# Update script of UserBot by @marshmello61
+# Update script of UserBot by @marshmello61 some fixes by @RoyalBoy69
 
 repo="UserBot"
 rm -rf ${repo}
