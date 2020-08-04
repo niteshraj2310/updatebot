@@ -1,4 +1,5 @@
 # Update script of UserBot by @marshmello61
+#some fixes by @RoyalBoy69
 
 repo="UserBot"
 rm -rf ${repo}
@@ -32,7 +33,7 @@ fi
 echo " "
 echo "Updating your UserBot"
 git pull https://github.com/sahyam2019/oub-remix.git
-git commit -m "pehli fursat me ho ja🌝"
+git commit -m "🌝pehli fursat me ho ja🌚"
 git push
 echo " "
 echo "Updated"
