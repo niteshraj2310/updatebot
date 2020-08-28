@@ -33,7 +33,7 @@ fi
 echo " "
 echo "Updating your UserBot"
 git pull https://github.com/sahyam2019/oub-remix.git
-git commit -m "🌝commit suicide🌚"
+git commit -sm "🌝commit suicide🌚"
 git push
 echo " "
 echo "Updated"
