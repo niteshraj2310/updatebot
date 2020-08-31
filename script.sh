@@ -44,7 +44,7 @@ echo " "
 echo "Updating your UserBot"
 sleep 1
 git pull https://github.com/sahyam2019/oub-remix.git
-git commit -m "🌝commit suicide🌚"
+git commit -s -m "🌝commit suicide kek🌚"
 git push
 echo " "
 echo "Updated"
